@@ -35,6 +35,8 @@ public class Search {
      * @return number of unique elements in the list.
      */
     public int countUnique(StringList a) {
+	// I could really do with renaming these
+	// they are too ambiguous
 
         int i = 1;
         int c = 0;
